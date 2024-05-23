@@ -1,0 +1,8 @@
+.space{
+    display: flex;
+    padding-bottom: 2px
+}
+.space label{
+    width: 100px;
+
+}

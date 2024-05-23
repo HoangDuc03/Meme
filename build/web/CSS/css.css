@@ -1,0 +1,17 @@
+.space{
+    display: flex;
+    padding-bottom: 2px
+}
+.space label{
+    width: 100px;
+
+}
+.infor{
+    display: flex;
+}
+.label{
+    border: 1px solid #5cb85c;
+    background-color: #5cb85c;
+    color: white;
+    cursor:pointer
+}
